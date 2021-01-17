@@ -1,6 +1,10 @@
 
-size = 1e5
+#######################################
+#Simple numbers search variant 1
+#######################################
 
+size = 1e5
+#Computation time (approx)
 #1e4 - 2 seconds
 #1e5 - 40 seconds
 
@@ -22,6 +26,9 @@ if False :
             print (x)    
 
 #######################################
+#Simple numbers search variant 2
+#######################################
+#Computation time (approx)
 #1e4 - 1 seconds
 #1e5 - 7 seconds
 
